@@ -1,5 +1,6 @@
 # Welcome To The Construct Creation Club Overview
 Here you can find a list of all Repo's sorted based on the type of the feature.
+Feel free to edit this file and add your own features with a link to them.
 
 ## Construct 2
 ### Addons
